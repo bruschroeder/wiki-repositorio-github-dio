@@ -5,6 +5,9 @@ Durante esse projeto, foi realizado um mecanismo de busca para encontrar reposit
 # Tecnologias utilizadas
 
 💻 HTML  
+
 💻 CSS  
+
 💻 React  
+
 💻 JavaScript  
