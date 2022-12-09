@@ -7,4 +7,4 @@ Durante esse projeto, foi realizado um mecanismo de busca para encontrar reposit
 💻 HTML  
 💻 CSS  
 💻 React  
-💻 JavaScript
+💻 JavaScript  
